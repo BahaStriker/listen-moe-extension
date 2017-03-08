@@ -2,6 +2,10 @@
 
 ## Changelog
 
+### v2017.3.8.1
+
+- Removed random request feature since I'm having a hard time getting it through the firefox review process
+
 ### v2017.2.13.1
 
 - Updated most of the endpoints
